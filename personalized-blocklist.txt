@@ -1,0 +1,40 @@
+# Redes sociales (Instagram, Facebook, etc.)
+graph.facebook.com
+ads.instagram.com
+ad.doubleclick.net
+ads-api.facebook.com
+edge-mqtt.facebook.com
+star.c10r.facebook.com
+business.facebook.com
+
+# Juegos móviles (Unity, AppLovin, AdMob, etc.)
+unityads.unity3d.com
+ads.adcolony.com
+ads.mopub.com
+sdk-api.gameanalytics.com
+ads.flurry.com
+adservice.google.com
+pagead2.googlesyndication.com
+init.supersonicads.com
+mobilelogs.supersonic.com
+ads.applovin.com
+tracking.chartboost.com
+
+# Publicidad general
+googleads.g.doubleclick.net
+securepubads.g.doubleclick.net
+static.doubleclick.net
+www.googleadservices.com
+c.amazon-adsystem.com
+d.servedbyadbutler.com
+servedbyopenx.com
+delivery.vidible.tv
+ads.yahoo.com
+
+# Rastreo y análisis (general y en apps)
+analytics.instagram.com
+crashlytics.com
+app-measurement.com
+events.appsflyer.com
+track.appsflyer.com
+api.segment.io

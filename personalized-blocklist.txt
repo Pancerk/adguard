@@ -38,3 +38,20 @@ app-measurement.com
 events.appsflyer.com
 track.appsflyer.com
 api.segment.io
+
+# Publicidad general y rastreo (como Liftoff)
+ads.liftoff.io
+tracking.liftoff.io
+ads.applovin.com
+ads.adcolony.com
+ads.mopub.com
+unifiedads.com
+sdk.gameanalytics.com
+www.flurry.com
+ads.google.com
+securepubads.g.doubleclick.net
+pagead2.googlesyndication.com
+mobilelogs.supersonic.com
+ads.chartboost.com
+d.api.segment.io
+
